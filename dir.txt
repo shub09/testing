@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6666-CE1D
+
+ Directory of C:\Users\vshadmin\gitTest
+
+01-12-2018  13:15    <DIR>          .
+01-12-2018  13:15    <DIR>          ..
+01-12-2018  13:15                 0 dir.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  201,190,051,840 bytes free
