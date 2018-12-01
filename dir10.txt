@@ -1,0 +1,18 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6666-CE1D
+
+ Directory of C:\Users\vshadmin\Desktop\newgittest
+
+01-12-2018  15:09    <DIR>          .
+01-12-2018  15:09    <DIR>          ..
+01-12-2018  14:58               318 dir.txt
+01-12-2018  14:58               385 dir1.txt
+01-12-2018  15:09                 0 dir10.txt
+01-12-2018  14:58               431 dir2.txt
+01-12-2018  14:58                49 dir4.txt
+01-12-2018  14:58                59 dir5.txt
+01-12-2018  14:58                69 dir6.txt
+01-12-2018  14:58               481 dirDusra.txt
+01-12-2018  14:58                42 nano.txt
+               9 File(s)          1,834 bytes
+               2 Dir(s)  201,199,222,784 bytes free
